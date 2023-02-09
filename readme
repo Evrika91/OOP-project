@@ -1,0 +1,2 @@
+It is a simple program that collects data on monthly expenses in selected months from the user, sums them up, and shows changes graphically. 
+Data and months are shown in the order the user enters them. Expenses for each month must be entered once.
